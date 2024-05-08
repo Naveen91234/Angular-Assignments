@@ -1,0 +1,22 @@
+nav {
+    display: flex;
+    align-items: center;
+  }
+  
+  nav a {
+    text-decoration: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+    color: #333;
+  }
+  
+  nav a:hover {
+    background-color: #ddd;
+  }
+  
+  nav .separator {
+    margin: 0 10px;
+    color: #666;
+  }
+  
